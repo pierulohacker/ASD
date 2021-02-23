@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1487073584 source:c:\users\vater\desktop\masella pierpaolo\masella_pierpaolo\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"NTree.h"
+	"Dynamic_NTree.h"
+	"Node.h"
+	"ESAME.h"
+
+1487067269 c:\users\vater\desktop\masella pierpaolo\masella_pierpaolo\ntree.h
+
+1487069484 c:\users\vater\desktop\masella pierpaolo\masella_pierpaolo\dynamic_ntree.h
+	"NTree.h"
+	"Node.h"
+
+1486952474 c:\users\vater\desktop\masella pierpaolo\masella_pierpaolo\node.h
+
+1487073495 c:\users\vater\desktop\masella pierpaolo\masella_pierpaolo\esame.h
+	"Dynamic_NTree.h"
+
